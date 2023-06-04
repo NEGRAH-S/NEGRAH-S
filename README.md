@@ -3,6 +3,10 @@
 NEGRAH-S/NEGRAH-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center" > 
+<img src="https://github.com/NEGRAH-S/NEGRAH-S/blob/main/gitartwork.svg"  />
+</p>
+
 <h1 align="center">Hi 👋, I am Negrah </h1>
 <h3 align="center">Am a tech Aficionado</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
