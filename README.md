@@ -4,7 +4,7 @@ NEGRAH-S/NEGRAH-S is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center" > 
-<img src="https://github.com/NEGRAH-S/NEGRAH-S/blob/main/gitartwork.svg"  />
+<img src="https://github.com/NEGRAH-S/NEGRAH-S/blob/main/gitartwork.svg"/>
 </p>
 
 <h1 align="center">Hi 👋, I am Negrah </h1>
