@@ -12,7 +12,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: inkerton
+            user_name: Negrah
             # Text on contribution graph 
-            text: inkerton
+            text: Negrah
        - uses: jasineri/simple-push-action@v1
