@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1 align="center">Hi 👋, I am Negrah </h1>
-<h3 align="center">Am a tech Aficionado</h3>
+<h3 align="center">Am a Tech Aficionado</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 - 🌱 I’m currently learning ** Data science Along with  DSA **   <br>                
