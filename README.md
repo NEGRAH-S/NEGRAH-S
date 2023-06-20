@@ -36,9 +36,16 @@ linkedin ; https://www.linkedin.com/in/negrahs23/
 </a>
 
 <h2> Github Stats: </h2>
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=NEGRAH-S&show_icon=true&theme=bear" width=400 > <img src= "https://github-readme-streak-stats.herokuapp.com?user=NEGRAH-S&theme=dark&hide_border=true" width=400> 
-  
-</p>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NEGRAH-S&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=NEGRAH-S&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+   <td>
+  </td>
+  </tr>
+</table>
+
+
 
                                                                              
