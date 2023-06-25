@@ -42,7 +42,7 @@ linkedin ; https://www.linkedin.com/in/negrahs23/
    </tr> 
   
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=NEGRAH-S&show_icons=true&theme=bear" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=NEGRAH-S&theme=dark&hide_border=true" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api?username=NEGRAH-S&show_icons=true&theme=bear" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=NEGRAH-S&theme=dark&hide_border=true" width = 400>
 </p>
   
 </table>
