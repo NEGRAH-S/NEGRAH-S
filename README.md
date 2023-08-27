@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning   Data science Along with  DSA <br>                
 
 
-- 👯 I’m looking to collaborate on  Project(s) <br>
+- 👯 I’m looking to collaborate on ** Project(s) **<br>
 
 
 
