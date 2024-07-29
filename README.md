@@ -49,12 +49,12 @@ linkedin ; https://www.linkedin.com/in/negrahs23/
    </tr> 
   
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=NEGRAH-S&show_icons=true&theme=bear" width = 500> <img src = "https://github-readme-streak-stats.herokuapp.com?user=NEGRAH-S&theme=dark&hide_border=true" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api?username=NEGRAH-S&show_icons=true&theme=bear" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=NEGRAH-S&theme=dark&hide_border=true" width = 400>
 </p>
 
  ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NEGRAH-S&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-<img height="180px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NEGRAH-S&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=bear&hide_border=false" alt="NEGRAH-S" />
+<img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NEGRAH-S&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=bear&hide_border=false" alt="NEGRAH-S" />
 <br>
 
 
