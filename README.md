@@ -58,6 +58,8 @@ linkedin ; https://www.linkedin.com/in/negrahs23/
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NEGRAH-S&theme=onedark&no-frame=false&no-bg=false&margin-w=2)
 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&show_icons=true&locale=en&layout=compact) -->
+
 </table>
 
 
