@@ -54,11 +54,14 @@ linkedin ; https://www.linkedin.com/in/negrahs23/
 
  ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NEGRAH-S&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<img height="225px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NEGRAH-S&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=bear&hide_border=false" alt="NEGRAH-S" />
+<br>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NEGRAH-S&theme=onedark&no-frame=false&no-bg=false&margin-w=2)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&show_icons=true&locale=en&layout=compact) -->
+
 
 </table>
 
