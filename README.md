@@ -37,6 +37,11 @@ linkedin ; https://www.linkedin.com/in/negrahs23/
 ![VisitorCount](https://profile-counter.glitch.me/{NEGRAH-S}/count.svg)
 </a>
 
+# Badges 
+
+[![An image of @negrahs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/negrahs)](https://holopin.io/@negrahs)
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+
  <h2> GITHUB STATS </h2>
 
   <tr>
